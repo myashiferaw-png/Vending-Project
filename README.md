@@ -1,2 +1,3 @@
 # Vending-Project
-hello
+Test project repository
+-- this is a repo for first project
